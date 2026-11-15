@@ -43,3 +43,8 @@ Le mode démonstration est actif par défaut. Utiliser uniquement des identifian
 - `src/services/api.js` sélectionne le mode de démo ou le client Axios du projet d’origine. Pour tester les routes d’origine avec PHP, copier `.env.example` vers `.env.local`, renseigner `VITE_API_URL` et relancer Vite. Les extensions d’administration, de profil et de messagerie sont livrées dans le mode simulé.
 
 Vérifications locales avec `npm run lint` et `npm run build`.
+
+## Rendu
+
+- [Rapport de réalisation](Rapport_BricoVoisins.pdf)
+- [Code de départ du groupe](https://github.com/valent1parade-cell/Projet/tree/48f0e5c9d9750db4b104aec328e6a4cc674353a0)
